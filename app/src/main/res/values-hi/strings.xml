@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="thank">Dhanyawaad!</string>
+    <string name="quantity">maatra</string>
+    <string name="order_summary_name">Naam</string>
+    <string name="chocolate">chocolate</string>
+    <string name="toppings">toppings</string>
+    <string name="whippedcream">fainti hui cream</string>
+</resources>
